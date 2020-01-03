@@ -1,0 +1,31 @@
+/* basic section */ 
+.basic{
+    background-color: azure;
+}
+/* About section */ 
+#About{
+    background-color: #b1e8ed;
+}
+#MySkills{
+    background-color: azure;
+}
+#Project{
+    background-color: #b1e8ed;
+}
+#Contact{
+    background-color: azure;
+}
+footer{
+    background-color: #138496;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li{
+    display: inline;
+    padding: 2rem;
+}
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
